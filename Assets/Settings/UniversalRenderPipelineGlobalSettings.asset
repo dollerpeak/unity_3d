@@ -54,15 +54,7 @@ MonoBehaviour:
       - rid: 6852985685364965394
       - rid: 8712630790384254976
       - rid: 6428879958067380224
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       - rid: 6428880137438101504
-=======
-      - rid: 3185560523019649024
->>>>>>> Stashed changes
-=======
-      - rid: 3185560523019649024
->>>>>>> Stashed changes
     m_RuntimeSettings:
       m_List: []
   m_AssetVersion: 8
